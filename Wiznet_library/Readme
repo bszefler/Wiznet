@@ -1,0 +1,3 @@
+Files : socket.c, wizchip_config.c and w5500.c are taken from ioLibrary_Driver.
+That library includes drivers and application protocols for Wiznet chips.
+It is avaiable under: https://github.com/Wiznet/ioLibrary_Driver	
